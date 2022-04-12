@@ -16,6 +16,8 @@ user@linux:~$ cd .config/cava
 ```
 
 
+
+
 ## Castellà
 
 CyTerm es un script de automatización que te permite lanzar visualmente un reproductor de música por terminal con apariencia Cyberpunk*.
@@ -27,6 +29,7 @@ Puede editar la configuración de cava o sustituir la configuración predetermin
 ```
 user@linux:~$ cd .config/cava
 ```
+
 
 
 
